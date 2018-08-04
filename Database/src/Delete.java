@@ -9,6 +9,7 @@ public class Delete {
     String URL = "jdbc:mysql://localhost/cm?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     String USERNAME = "root";
     String PASSWORD = "maria";
+    
     */
 
 
